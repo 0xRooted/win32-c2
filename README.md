@@ -5,10 +5,11 @@
 <b> CLIENT IS CODED TO BE RAN ON A WINDOWS DEVICES BUT CAN BE TWEAKED FOR BOTH UNIX AND WINDOWS </b>
 
 <h1>
-server:
-  --- To compile run compile-server.sh.
-  --- In main.cpp you can change the ip and port to your liking.
-client:
-  --- To compile run compile-client.bat.
-  --- Change "SERVER-IP" in main.cpp to server ip.
-</h1>
+  <br>
+server:<br>
+  --- To compile run compile-server.sh.<br>
+  --- In main.cpp you can change the ip and port to your liking.<br>
+client:<br>
+  --- To compile run compile-client.bat.<br>
+  --- Change "SERVER-IP" in main.cpp to server ip.<br>
+</h1><br>
