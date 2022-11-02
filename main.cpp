@@ -3,7 +3,7 @@
 int main (void)
 {
     FreeConsole();
-    client *c = new client("172.17.52.181", 3333);
+    client *c = new client("SERVER-IP", 3333); // REPLACE 3333 WITH SERVER PORT
 
     c->init();
 
